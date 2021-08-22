@@ -1,5 +1,7 @@
 # flutter_usb_printer
 
+This plugin just migrate flutter_usb_printer to null safety, thanks to developer.
+
 This plugin will allow develop send data and work with usb printer on android
 
 ## Getting Started
